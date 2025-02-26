@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Ladoga.jpg</file>
+        <file>astra_logo_800_black.png</file>
+        <file>astra_logo_800_white.png</file>
+        <file>elbrus.jpg</file>
+    </qresource>
+</RCC>
